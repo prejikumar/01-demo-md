@@ -5,7 +5,7 @@
 
 - Item 1
 - Item 2
-- Item 3
+- [Item 3](https://google.com)
 - Item 4
 - Item 5
 
