@@ -8,3 +8,5 @@
 - Item 3
 - Item 4
 - Item 5
+
+![Demo image](images/demo-image-1.jpg)
