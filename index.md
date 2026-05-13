@@ -67,3 +67,9 @@ Steps to verify:
 - Closes #issue_number
 - Related PRs: ___
 ``
+---
+
+| Left Column      | Right Column     |
+|-----------------|-----------------|
+| Item 1          | Item A          |
+| Item 2          | Item B          |
