@@ -45,6 +45,8 @@ Steps to verify:
 1. Go to ___
 2. Click ___
 3. Check ___
+4. Check ___
+
 
 ---
 
@@ -69,9 +71,9 @@ Steps to verify:
 ``
 ---
 
-| Left Column      | Right Column     |
+| Left Column     | Right Column    |
 |-----------------|-----------------|
 | Item 1          | Item A          |
 | Item 2          | Item B          |
 
---- --- --- 
+--  
